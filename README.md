@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ff39a6b7ae524bc77d18f.jpg">
+  <a href="https://wa.me/message/OBW55WAU2A65G1?src=qr">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/9c02cc03a3654a6cff28c.jpg">
   </a>
 </p>
     
